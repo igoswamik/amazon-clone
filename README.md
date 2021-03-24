@@ -1,5 +1,5 @@
 # Amazon Clone using ReactJS 
-
+_(this Project is under development)_
 The Amazon Clone was a part of the 5 day React Challenge which was held by the Clever Programmer team.
 This project covers an entire E-Commerce solution! From Designing, Authentication till Payment, everything is taken care of!
 In this challenge we make the Amazon Clone using React. Firebase has been used for Authentication, Database, Functions and Hosting. Firebase is a great tool to get started with projects quickly. We will also be using HTML, CSS and React Context API.
