@@ -10,16 +10,18 @@ function App() {
   return (
     //BEM
     <Router>
-    <div className="App">
-    <Header/>  
+    <div className="App">  
     {/* //since we want to render the header regadless of the route in which we are */}
       <Switch>
+      <Route path="/login">
+          <h1>Login Page</h1>
+        </Route>
       <Route path="/checkout">
-          
+          <Header/>
           <Checkout/>
         </Route>
         <Route path="/">
-          
+          <Header/>
           <Home/>
         </Route>
       </Switch>
